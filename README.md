@@ -17,9 +17,9 @@ Feel free to access [anything else](http://google.com).
 > Something **bold**.
 >
 ### And now some bullet points
-*One
-+Two
--Three
+* One
++ Two
+- Three
 
 ### And then some numbers!
 1. hello
